@@ -1,7 +1,7 @@
 # Site settings
 title: "j kaplan: the website"
 email: me@jkap.io
-baseurl: "/~jkap/" # the subpath of your site, e.g. /blog/
+baseurl: "/~jkap" # the subpath of your site, e.g. /blog/
 url: "https://crime.team" # the base hostname & protocol for your site
 twitter_username: jkap
 github_username:  jkap

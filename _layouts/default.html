@@ -7,6 +7,16 @@
 
     {{ content }}
 
+    <hr>
+
+    {% assign pages = (site.pages | where_exp: "page", "page.hideNav != true") %}
+    {% for page in pages %}
+    <a href="{{ page.url | prepend:site.baseurl }}">{{ page.navTitle }}</a>
+    {% unless forloop.last %}
+    |
+    {% endunless %}
+    {% endfor %}
+
   </body>
 
 </html>

@@ -1,5 +1,6 @@
 ---
 layout: default
+navTitle: home
 ---
 
 hi i’m j kaplan
