@@ -1,0 +1,44 @@
+---
+---
+
+$blue-violet: #6763cd;
+$white: #dffef7;
+
+* {
+font-size:13pt;
+font-weight:400;
+}
+
+table {
+border-collapse:collapse;
+}
+
+td {
+border:6px double #6cc1ed;
+padding:10px;
+}
+
+ol {
+margin-left:1em;
+}
+
+body {
+font-family:'courier new';
+color:$white;
+background:$blue-violet;
+margin:1em;
+}
+
+h1 {
+text-transform:uppercase;
+font-weight:700;
+color:$blue-violet;
+background:$white;
+}
+
+a,.advisory {
+background:$white;
+color:$blue-violet;
+font-weight:700;
+padding-right:.25em;
+}

@@ -7,50 +7,5 @@
     <meta charset="UTF-8">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <style>
-    .cerulean { color: #6cc1ed; }
-    .black { color: #04312c; }
-    .bg-cerulean { background-color: #6cc1ed; }
-    .bg-black { background-color: #04312c; }
-
-    * {
-    font-size:13pt;
-    font-weight:400;
-    }
-
-    table {
-    border-collapse:collapse;
-    }
-
-    td {
-    border:6px double #6cc1ed;
-    padding:10px;
-    }
-
-    ol {
-    margin-left:1em;
-    }
-
-    body {
-    font-family:'courier new';
-    color:#6cc1ed;
-    background:#04312c;
-    margin:1em;
-    }
-
-    h1 {
-    text-transform:uppercase;
-    font-weight:700;
-    color:#04312c;
-    background:#6cc1ed;
-    }
-
-    a,.advisory {
-    background:#6cc1ed;
-    color:#04312c;
-    font-weight:700;
-    padding-right:.25em;
-    }
-    </style>
+    <link rel="stylesheet" href="{{'/css/main.css' | prepend: site.baseurl }}" media="screen" title="no title" charset="utf-8">
 </head>
