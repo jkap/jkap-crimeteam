@@ -11,7 +11,7 @@ i currently work on maps at apple.
 
 you can’t hire me.
 
-[follow me on twitter](https://twitter.com/jkap)
+[follow me on mastodon](https://mastodon.social/users/jkap)
 
 [look at my github](https://github.com/jkap)
 
