@@ -9,8 +9,6 @@ i’m a js tools and server engineer.
 
 i currently work on maps at apple.
 
-you can’t hire me.
-
 i'm currently working on restoring a NeXTstation. you can [read about it](https://next.jkap.io)
 
 [follow me on twitter](https://twitter.com/jkap)
