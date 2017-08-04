@@ -3,13 +3,13 @@ layout: default
 navTitle: home
 ---
 
-hi i’m j kaplan
+hi i'm jae kaplan
 
-i’m a js tools and server engineer.
+i'm a devex & build/deploy engineer
 
-i currently work on maps at apple.
+i work on maps at apple.
 
-i'm currently working on restoring a NeXTstation. you can [read about it](https://next.jkap.io)
+you can't hire me.
 
 [follow me on twitter](https://twitter.com/jkap)
 
