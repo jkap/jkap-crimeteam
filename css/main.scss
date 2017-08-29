@@ -8,7 +8,7 @@ $white: #dffef7;
 
 * {
 font-size:13pt;
-font-weight:400;
+//font-weight:400;
 }
 
 table {
@@ -25,7 +25,7 @@ margin-left:1em;
 }
 
 body {
-font-family:'SF Mono','courier new', monospace;
+font-family:'courier new', monospace;
 color:$white;
 background:$blue-violet;
 margin:1em;
@@ -35,11 +35,15 @@ p {
 max-width: 80ch;
 }
 
-h1 {
+h1,h2 {
 text-transform:uppercase;
 font-weight:700;
 color:$blue-violet;
 background:$white;
+}
+
+h1 {
+    font-size:18pt;
 }
 
 a,.advisory {
