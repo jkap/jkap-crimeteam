@@ -6,6 +6,10 @@ navTitle: projects
 
 # projects i've done (mostly open source)
 
+## Old Friends Computer Rescue
+
+A retirement home for old computers to live out their hobbies in peace. Open source at [github.com/oldfriends](https://github.com/oldfriends). Visit [crime.team/~oldfriends](https://crime.team/~oldfriends).
+
 ## a whole mess of twitter bots
 
 [twitter list](https://twitter.com/jkap/lists/my-bots)
