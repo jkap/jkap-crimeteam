@@ -7,7 +7,7 @@ hi i'm jae kaplan
 
 i'm a devex & build/deploy engineer
 
-i’m currently available for hire
+i’m currently [available for hire](https://twitter.com/jkap/status/926955117995163648)
 
 [follow me on twitter](https://twitter.com/jkap)
 
