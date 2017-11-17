@@ -7,7 +7,7 @@ hi i'm jae kaplan
 
 i'm a devex & build/deploy engineer
 
-i work on maps at apple.
+i’m currently available for hire
 
 [follow me on twitter](https://twitter.com/jkap)
 
