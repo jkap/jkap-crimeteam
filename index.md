@@ -5,9 +5,7 @@ navTitle: home
 
 hi i'm jae kaplan
 
-i'm a devex & build/deploy engineer
-
-i’m currently [available for hire](https://twitter.com/jkap/status/926955117995163648)
+i'm a javascript platform engineer @ plangrid
 
 [follow me on twitter](https://twitter.com/jkap)
 
