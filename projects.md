@@ -8,7 +8,7 @@ navTitle: projects
 
 ## speedrunning Disneyland
 
-i had the dumb idea to try and [speedrun Disneyland](https://blog.jkap.io/2018/01/29/the-dumbest-idea-ive-ever-had-speedrunning-disneyland/) and some people [decided they cared](https://twitter.com/jkap/status/958188434576760833). [USgamer wrote about it](www.usgamer.net/articles/meet-the-person-who-is-speedrunning-disneyland). i'm actually attempting it on 2/11/18, wish me luck.
+i had the dumb idea to try and [speedrun Disneyland](https://blog.jkap.io/2018/01/29/the-dumbest-idea-ive-ever-had-speedrunning-disneyland/) and some people [decided they cared](https://twitter.com/jkap/status/958188434576760833). [USgamer wrote about it](https://www.usgamer.net/articles/meet-the-person-who-is-speedrunning-disneyland). i'm actually attempting it on 2/11/18, wish me luck.
 
 ## Old Friends Computer Rescue
 
