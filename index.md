@@ -5,7 +5,7 @@ navTitle: home
 
 hi i'm jae kaplan
 
-i'm a javascript platform engineer @ plangrid
+i'm a javascript platform engineer @ [plangrid](https://plangrid.com)
 
 [follow me on twitter](https://twitter.com/jkap)
 

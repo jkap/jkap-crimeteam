@@ -2,6 +2,7 @@
 layout: default
 title: how 2 have a jekyll site on crime.team
 navTitle: crime.team jekyll tutorial
+hideNav: true
 ---
 
 # how 2 have a jekyll site on crime.team
