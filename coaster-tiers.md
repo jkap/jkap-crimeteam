@@ -78,7 +78,7 @@ full list of ridden coasters at [coaster count](https://coaster-count.com/user/8
 * Xcelerator (KBF)
 * Superman Ultimate Flight (SFDK)
 
-B Tier
+## B Tier
 
 * Cobra’s Curse (BGT)
 * Python (BGT)
