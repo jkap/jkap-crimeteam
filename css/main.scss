@@ -2,53 +2,48 @@
 hideNav: true
 ---
 
-
 $blue-violet: #6763cd;
 $white: #dffef7;
-
+$midnight-blue: #18214e;
+$fern: #63d27b;
+$bg: $midnight-blue;
+$fg: $fern;
 * {
-font-size:13pt;
-//font-weight:400;
+  font-size: 13pt; // font-weight:400;
 }
-
 table {
-border-collapse:collapse;
+  border-collapse: collapse;
 }
-
 td {
-border:6px double #6cc1ed;
-padding:10px;
+  border: 6px double $fg;
+  padding: 10px;
 }
-
 ol {
-margin-left:1em;
+  margin-left: 1em;
 }
-
 body {
-font-family:'courier new', monospace;
-color:$white;
-background:$blue-violet;
-margin:1em;
+  font-family: "courier new", monospace;
+  color: $fg;
+  background: $bg;
+  margin: 1em;
 }
-
 p {
-max-width: 80ch;
+  max-width: 80ch;
 }
-
-h1,h2 {
-text-transform:uppercase;
-font-weight:700;
-color:$blue-violet;
-background:$white;
+h1,
+h2 {
+  text-transform: uppercase;
+  font-weight: 700;
+  color: $bg;
+  background: $fg;
 }
-
 h1 {
-    font-size:18pt;
+  font-size: 18pt;
 }
-
-a,.advisory {
-background:$white;
-color:$blue-violet;
-font-weight:700;
-padding-right:.25em;
+a,
+.advisory {
+  background: $fg;
+  color: $bg;
+  font-weight: 700;
+  // padding-right: 0.25em;
 }
