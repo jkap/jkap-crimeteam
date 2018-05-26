@@ -5,18 +5,20 @@
 
 <body>
 
-    <table style="max-width: 80ch; margin: auto;">
+    <table style="max-width: 80ch; width: 100%; margin: auto;">
 
         <tr>
             <td>{{ content }}</td>
         </tr>
+        <tr>
+            <td>
+                {% assign pages = (site.pages | where_exp: "page", "page.hideNav != true") %} {% for page in pages %}
+                <a href="{{ page.url | prepend:site.baseurl }}">{{ page.navTitle }}</a>
+                {% unless forloop.last %} | {% endunless %} {% endfor %}
+            </td>
+        </tr>
 
     </table>
-
-    <hr> {% assign pages = (site.pages | where_exp: "page", "page.hideNav != true") %} {% for page in pages %}
-    <a href="{{ page.url | prepend:site.baseurl }}">{{ page.navTitle }}</a>
-    {% unless forloop.last %} | {% endunless %} {% endfor %}
-
 </body>
 
 </html>
