@@ -16,8 +16,8 @@ full list of ridden coasters at [coaster count](https://coaster-count.com/user/8
 * DAK: Disney’s Animal Kingdom
 * DCA: Disney’s California Adventure
 * DL: Disneyland
-* IOA: Islands of Adventure
 * HP: Hersheypark
+* IOA: Islands of Adventure
 * KBF: Knott’s Berry Farm
 * MK: Magic Kingdom
 * MOA: Mall of America
@@ -31,102 +31,102 @@ full list of ridden coasters at [coaster count](https://coaster-count.com/user/8
 
 ## S Tier
 
-* Cheetah Hunt (BGT)
-* Kumba (BGT)
-* Montu (BGT)
 * Apollo’s Chariot (BGW)
-* Gold Striker (CGA)
-* Mako (SWO)
-* Joker (SFDK)
-* New Texas Giant (SFOT)
+* Big Thunder Mountain Railroad (MK)
+* Cheetah Hunt (BGT)
 * Dragon Challenge (IOA)
 * Expedition Everest (DAK)
-* Big Thunder Mountain Railroad (MK)
+* GhostRider (KBF)
 * Giant Dipper (SCBB)
+* Gold Striker (CGA)
+* Hangtime (KBF)
+* Joker (SFDK)
+* Kumba (BGT)
+* Mako (SWO)
+* Montezooma’s Revenge (KBF)
+* Montu (BGT)
+* New Texas Giant (SFOT)
 * Twisted Colossus (SFMM)
 * X2 (SFMM)
-* Hangtime (KBF)
-* GhostRider (KBF)
-* Montezooma’s Revenge (KBF)
 
 ## A Tier
 
-* Gwazi (may it rest in peace) (BGT)
-* Sheikra (BGT)
 * Alpengeist (BGW)
 * Big Bad Wolf (BGW)
-* Patriot (CGA)
-* California Screamin’ (DCA)
 * Big Thunder Mountain Railroad (DL)
-* Matterhorn Bobsleds (DL)
-* Space Mountain (DL)
-* Lightning Racer (HP)
-* Storm Runner (HP)
-* Spongebob Squarepants Rock Bottom Plunge (MOA)
-* Manta (SWO)
-* Titan (SFOT)
-* Shock Wave (SFOT)
+* California Screamin’ (DCA)
+* Full Throttle (SFMM) (would be S with one more airtime hill)
+* Gwazi (may it rest in peace) (BGT)
 * Harry Potter and the Escape from Gringotts (USO)
 * Incredible Hulk (IOA)
-* Steel Venom (Valleyfair!)
-* Seven Dwarfs Mine Train (MK)
-* Space Mountain (MK)
-* Undertow (SCBB) (B tier coaster in an S tier location)
-* Full Throttle (SFMM) (would be S with one more airtime hill)
+* Lightning Racer (HP)
+* Manta (SWO)
+* Matterhorn Bobsleds (DL)
 * Ninja (SFMM)
+* Patriot (CGA)
+* Seven Dwarfs Mine Train (MK)
+* Sheikra (BGT)
+* Shock Wave (SFOT)
 * Silver Bullet (KBF) (would be S with trenches or a tunnel)
-* Xcelerator (KBF)
+* Space Mountain (DL)
+* Space Mountain (MK)
+* Spongebob Squarepants Rock Bottom Plunge (MOA)
+* Steel Venom (Valleyfair!)
+* Storm Runner (HP)
 * Superman Ultimate Flight (SFDK)
+* Titan (SFOT)
+* Undertow (SCBB) (B tier coaster in an S tier location)
+* Xcelerator (KBF)
 
 B Tier
 
-* Cobra’s Curse (BGT)
-* Python (BGT)
-* Scorpion (BGT)
-* Loch Ness Monster (BGW)
-* Demon (CGA)
-* Flight Deck (CGA)
-* Grizzly (CGA)
-* Comet
-* Great Bear
-* Sidewinder
-* Fairly Odd Coaster (MOA)
-* Kraken (SWO)
-* Medusa (SFDK)
-* V2 (SFDK)
-* La Vibora (SFOT)
-* Corkscrew (Valleyfair!)
-* Wild Thing (Valleyfair!)
-* Rock ’n’ Roller Coaster (DHS)
 * Cheetah (WA)
+* Cobra’s Curse (BGT)
+* Comet
+* Corkscrew (Valleyfair!)
+* Demon (CGA)
+* Fairly Odd Coaster (MOA)
+* Flight Deck (CGA)
 * Goldrusher (SFMM)
+* Great Bear
+* Grizzly (CGA)
+* Kraken (SWO)
+* La Vibora (SFOT)
+* Loch Ness Monster (BGW)
+* Medusa (SFDK)
+* Python (BGT)
+* Rock ’n’ Roller Coaster (DHS)
+* Scorpion (BGT)
+* Sidewinder
+* V2 (SFDK)
+* Wild Thing (Valleyfair!)
 
 ## C Tier
 
 * Avatar Airbender (MOA) (apparently this counts???)
-* Pepsi Orange Streak (MOA)
 * Barnstormer (MK)
 * Boomerang (WA)
-* Twisted Tyhoon (WA)
+* Pepsi Orange Streak (MOA)
 * Swamp Thing (WA)
+* Twisted Tyhoon (WA)
 
 ## Shit Tier
 
+* Big Apple Coaster (NYNY)
 * every single unthemed wild mouse
-* Vortex (CGA)
+* Hollywood Rip Ride Rockit (USO)
+* Joker (SFOT)
 * Journey to Atlantis (SWO)
 * Kong (SFDK)
-* Joker (SFOT)
 * Primeval Whirl (DAK)
 * Viking Voyage (WA)
-* Big Apple Coaster (NYNY)
-* Hollywood Rip Ride Rockit (USO)
+* Vortex (CGA)
 
 ## Junior Coaster Tier
 
 * Air Grover (BGT)
-* Shamu Express (SWO)
 * Ant Farm Express (WA)
+* Shamu Express (SWO)
 
 ## PATCH NOTES
 
