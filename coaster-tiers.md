@@ -8,6 +8,8 @@ navTitle: coasters
 
 full list of ridden coasters at [coaster count](https://coaster-count.com/user/8352/ridden)
 
+all tiers sorted alphabetically
+
 ## key
 
 * BGT: Busch Gardens Tampa
