@@ -78,7 +78,7 @@ full list of ridden coasters at [coaster count](https://coaster-count.com/user/8
 * Undertow (SCBB) (B tier coaster in an S tier location)
 * Xcelerator (KBF)
 
-B Tier
+## B Tier
 
 * Cheetah (WA)
 * Cobra’s Curse (BGT)
