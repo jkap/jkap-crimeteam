@@ -48,6 +48,7 @@ all tiers sorted alphabetically
 * Montezooma’s Revenge (KBF)
 * Montu (BGT)
 * New Texas Giant (SFOT)
+* Railblazer (CGA)
 * Twisted Colossus (SFMM)
 * X2 (SFMM)
 
@@ -141,3 +142,5 @@ all tiers sorted alphabetically
 * 5/25/18
   * added Knott’s
   * why the fuck did i make Superman Ultimate Flight a C tier? that’s a fun coaster, i think i was just mad
+* 6/9/17
+	* RAILBLAZER
