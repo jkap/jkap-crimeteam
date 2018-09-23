@@ -20,6 +20,7 @@ all tiers sorted alphabetically
 - DL: Disneyland
 - HP: Hersheypark
 - IOA: Islands of Adventure
+- KD: Kings Dominion
 - KBF: Knott’s Berry Farm
 - MK: Magic Kingdom
 - MOA: Mall of America
@@ -42,6 +43,8 @@ all tiers sorted alphabetically
 - Giant Dipper (SCBB)
 - Gold Striker (CGA)
 - Hangtime (KBF)
+- Intimidator 305 (KD)
+- Invadr (BGW)
 - Joker (SFDK)
 - Kumba (BGT)
 - Mako (SWO)
@@ -58,7 +61,10 @@ all tiers sorted alphabetically
 - Big Bad Wolf (BGW)
 - Big Thunder Mountain Railroad (DL)
 - California Screamin’ (DCA)
+- Dominator (KD)
+- Flight of Fear (KD)
 - Full Throttle (SFMM) (would be S with one more airtime hill)
+- Griffon (BGW)
 - Gwazi (may it rest in peace) (BGT)
 - Harry Potter and the Escape from Gringotts (USO)
 - Incredible Hulk (IOA)
@@ -77,12 +83,17 @@ all tiers sorted alphabetically
 - Steel Venom (Valleyfair!)
 - Storm Runner (HP)
 - Superman Ultimate Flight (SFDK)
+- Tempesto (BGW)
 - Titan (SFOT)
+- Twisted Timbers (KD)
 - Undertow (SCBB) (B tier coaster in an S tier location)
+- Verbolten (BGW)
 - Xcelerator (KBF)
 
 ## B Tier
 
+- Avalanche (KD)
+- Back Lot Stunt Coaster (KD)
 - Cheetah (WA)
 - Cobra’s Curse (BGT)
 - Comet
@@ -93,19 +104,23 @@ all tiers sorted alphabetically
 - Goldrusher (SFMM)
 - Great Bear
 - Grizzly (CGA)
+- Grizzle (KD)
 - Kraken (SWO)
 - La Vibora (SFOT)
 - Loch Ness Monster (BGW)
 - Medusa (SFDK)
 - Python (BGT)
+- Racer 75 (KD)
 - Rock ’n’ Roller Coaster (DHS)
 - Scorpion (BGT)
 - Sidewinder
 - V2 (SFDK)
 - Wild Thing (Valleyfair!)
+- Woodstock Express (KD)
 
 ## C Tier
 
+- Apple Zapple (KD)
 - Avatar Airbender (MOA)
 - Boomerang (WA)
 - Pepsi Orange Streak (MOA)
@@ -148,3 +163,5 @@ all tiers sorted alphabetically
 - 8/26/18
   - woodstock express lol
   - rearranged to be kinder about junior coasters
+- 9/23/18
+  - I went to Kings Dominion and Busch Gardens Williamsburg
