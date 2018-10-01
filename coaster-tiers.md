@@ -54,6 +54,7 @@ all tiers sorted alphabetically
 - New Texas Giant (SFOT)
 - Railblazer (CGA)
 - Twisted Colossus (SFMM)
+- Twisted Timbers (KD)
 - X2 (SFMM)
 
 ## A Tier
@@ -89,7 +90,6 @@ all tiers sorted alphabetically
 - Superman Ultimate Flight (SFDK)
 - Tempesto (BGW)
 - Titan (SFOT)
-- Twisted Timbers (KD)
 - Undertow (SCBB) (B tier coaster in an S tier location)
 - Verbolten (BGW)
 - Xcelerator (KBF)
