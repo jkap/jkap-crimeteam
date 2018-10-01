@@ -22,6 +22,7 @@ all tiers sorted alphabetically
 - IOA: Islands of Adventure
 - KD: Kings Dominion
 - KBF: Knott’s Berry Farm
+- LAG: Lagoon
 - MK: Magic Kingdom
 - MOA: Mall of America
 - SCBB: Santa Cruz Beach Boardwalk
@@ -36,7 +37,9 @@ all tiers sorted alphabetically
 
 - Apollo’s Chariot (BGW)
 - Big Thunder Mountain Railroad (MK)
+- Cannibal (LAG)
 - Cheetah Hunt (BGT)
+- Colossus the Fire Dragon (LAG)
 - Dragon Challenge (IOA)
 - Expedition Everest (DAK)
 - GhostRider (KBF)
@@ -68,6 +71,7 @@ all tiers sorted alphabetically
 - Gwazi (may it rest in peace) (BGT)
 - Harry Potter and the Escape from Gringotts (USO)
 - Incredible Hulk (IOA)
+- Jet Star II (LAG)
 - Lightning Racer (HP)
 - Manta (SWO)
 - Matterhorn Bobsleds (DL)
@@ -94,6 +98,7 @@ all tiers sorted alphabetically
 
 - Avalanche (KD)
 - Back Lot Stunt Coaster (KD)
+- Bombora (LAG)
 - Cheetah (WA)
 - Cobra’s Curse (BGT)
 - Comet
@@ -112,9 +117,12 @@ all tiers sorted alphabetically
 - Python (BGT)
 - Racer 75 (KD)
 - Rock ’n’ Roller Coaster (DHS)
+- Roller Coaster (LAG)
 - Scorpion (BGT)
+- The Spider (LAG)
 - Sidewinder
 - V2 (SFDK)
+- Wicked (LAG)
 - Wild Thing (Valleyfair!)
 - Woodstock Express (KD)
 
@@ -147,6 +155,14 @@ all tiers sorted alphabetically
 - Shamu Express (SWO)
 - Woodstock Express (CGA)
 
+## Current Top 5 (unordered)
+
+* Apollo’s Chariot (BGW)
+* Cannibal (LAG)
+* Railblazer (CGA)
+* Twisted Colossus (SFMM)
+* X2 (SFMM)
+
 ## PATCH NOTES
 
 - 1/21/18
@@ -165,3 +181,5 @@ all tiers sorted alphabetically
   - rearranged to be kinder about junior coasters
 - 9/23/18
   - I went to Kings Dominion and Busch Gardens Williamsburg
+- 10/01/18
+	- went to Lagoon
