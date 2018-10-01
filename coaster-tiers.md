@@ -36,7 +36,6 @@ all tiers sorted alphabetically
 ## S Tier
 
 - Apollo’s Chariot (BGW)
-- Big Thunder Mountain Railroad (MK)
 - Cannibal (LAG)
 - Cheetah Hunt (BGT)
 - Colossus the Fire Dragon (LAG)
@@ -47,7 +46,6 @@ all tiers sorted alphabetically
 - Gold Striker (CGA)
 - Hangtime (KBF)
 - Intimidator 305 (KD)
-- Invadr (BGW)
 - Joker (SFDK)
 - Kumba (BGT)
 - Mako (SWO)
@@ -63,6 +61,7 @@ all tiers sorted alphabetically
 - Alpengeist (BGW)
 - Big Bad Wolf (BGW)
 - Big Thunder Mountain Railroad (DL)
+- Big Thunder Mountain Railroad (MK)
 - California Screamin’ (DCA)
 - Dominator (KD)
 - Flight of Fear (KD)
@@ -71,6 +70,7 @@ all tiers sorted alphabetically
 - Gwazi (may it rest in peace) (BGT)
 - Harry Potter and the Escape from Gringotts (USO)
 - Incredible Hulk (IOA)
+- Invadr (BGW)
 - Jet Star II (LAG)
 - Lightning Racer (HP)
 - Manta (SWO)
