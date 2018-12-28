@@ -5,7 +5,7 @@ navTitle: home
 
 hi i'm jae kaplan
 
-i'm a software engineer focused on developer experience 
+i'm break xcode and write iOS build tools at square 
 
 i write about Disney parks and occasionally other things on [my blog](https://blog.jkap.io)
 
