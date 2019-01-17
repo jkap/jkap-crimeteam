@@ -9,7 +9,7 @@ i'm break xcode and write iOS build tools at square
 
 i write about Disney parks and occasionally other things on [my blog](https://blog.jkap.io)
 
-[follow me on twitter](https://twitter.com/jkap)
+i don't have a twitter account anymore
 
 [look at my github](https://github.com/jkap)
 
