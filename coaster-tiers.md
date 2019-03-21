@@ -33,6 +33,21 @@ all tiers sorted alphabetically
 - USO: Universal Studios Orlando
 - WA: Wild Adventures
 
+## Current Top 10
+
+Unordered, just a filtered version of S Tier. Extremely subject to change.
+
+- Apollo’s Chariot (BGW)
+- Cannibal (LAG)
+- Colossus the Fire Dragon (LAG)
+- Gold Striker (CGA)
+- Intimidator 305 (KD)
+- Kumba (BGT)
+- Montu (BGT)
+- Railblazer (CGA)
+- Twisted Colossus (SFMM)
+- X2 (SFMM)
+
 ## S Tier
 
 - Apollo’s Chariot (BGW)
