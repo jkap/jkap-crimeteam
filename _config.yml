@@ -10,4 +10,6 @@ github_username:  jkap
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor/
+  - .bundle/
 markdown: kramdown

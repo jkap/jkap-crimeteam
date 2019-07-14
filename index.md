@@ -5,16 +5,23 @@ navTitle: home
 
 hi i'm jae kaplan
 
-i'm break xcode and write iOS build tools at square 
+i break xcode and write iOS build tools at square 
 
-i write about Disney parks and occasionally other things on [my blog](https://blog.jkap.io)
+i write about Disney parks and occasionally other things on [my blog][blog]{:rel="me"}
 
-[follow me on twitter](https://twitter.com/jkap)
+follow me on [twitter][twitter]{:rel="me"} or [mastodon][mastodon]{:rel="me"}
 
-[look at my github](https://github.com/jkap)
+[look at my github][github]{:rel="me"}
 
-[look at my linkedin](https://www.linkedin.com/in/yrfriendjkap/)
+[look at my linkedin][linkedin]{:rel="me"}
 
-[play my games](https://jkap.itch.io)
+[play my games][itch]{:rel="me"}
 
 bye
+
+[blog]: https://blog.jkap.io
+[twitter]: https://twitter.com/jkap
+[mastodon]: https://cybre.space/@jkap
+[github]: https://github.com/jkap
+[linkedin]: https://www.linkedin.com/in/yrfriendjkap/
+[itch]: https://jkap.itch.io
