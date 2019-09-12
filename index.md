@@ -5,7 +5,7 @@ navTitle: home
 
 hi i'm jae kaplan
 
-i break xcode and write iOS build tools at square 
+i write build and other devex tools 
 
 i write about Disney parks and occasionally other things on [my blog][blog]{:rel="me"}
 
