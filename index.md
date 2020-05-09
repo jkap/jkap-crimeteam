@@ -5,7 +5,7 @@ navTitle: home
 
 hi i'm jae kaplan
 
-i write build and other devex tools 
+i am a member and co-founder of [anti software software club][assc]
 
 i write about Disney parks and occasionally other things on [my blog][blog]{:rel="me"}
 
@@ -19,6 +19,7 @@ follow me on [twitter][twitter]{:rel="me"} or [mastodon][mastodon]{:rel="me"}
 
 bye
 
+[assc]: https://antisoftware.club
 [blog]: https://blog.jkap.io
 [twitter]: https://twitter.com/jkap
 [mastodon]: https://cybre.space/@jkap
